@@ -4,7 +4,7 @@
 - 📞 +65 8268 6356
 - 📧 [aadharshrajagopal13@gmail.com](mailto:aadharshrajagopal13@gmail.com)
 - 🔗 [LinkedIn](http://www.linkedin.com/in/aadharsh1)
-- 💼 [GitHub](https://github.com/bokiex/Fashain)
+- 💼 [GitHub](https://github.com/Aadharsh1)
 
 ## Education
 
