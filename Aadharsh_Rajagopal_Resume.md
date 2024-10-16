@@ -34,7 +34,8 @@
 
 ## Work Experience  
 ### Machine Learning Research Intern  
-*Singapore Management University*  
+*Singapore Management University* 
+*May 2024 – Aug 2026*  
 - Conducted experiments with pretrained models and CNNs using PyTorch for image classification on clean and noisy datasets.  
 - Applied conformal prediction for uncertainty quantification.  
 - Used Weights and Biases (W&B) to track deep learning experiments effectively.  
